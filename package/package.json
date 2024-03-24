@@ -1,0 +1,27 @@
+{
+  "name": "react-cheat-codes",
+  "version": "1.0.0",
+  "description": "This package is a packing in order to help create cheat codes for games, developers, or reuse it like in the YouTube website how you can type awsome to make a rainbow video progress bar",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinkQween/react-cheat-codes.git"
+  },
+  "author": "PinkQween (Hanna Skairipa)",
+  "keywords": [
+    "react",
+    "cheat codes",
+    "games",
+    "development",
+    "utilities"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PinkQween/react-cheat-codes",
+  "bugs": {
+    "url": "https://github.com/PinkQween/react-cheat-codes/issues"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
